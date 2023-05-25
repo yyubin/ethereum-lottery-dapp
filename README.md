@@ -25,12 +25,9 @@ https://www.inflearn.com/course/ethereum-dapp
 2. private
 
 
-- - -
-
-
 # Lottery 규칙
 
-1. + 3 번째 블록해시의 첫 두 글자 맞추기
+1. 3 번째 블록해시의 첫 두 글자 맞추기
     * 유저가 던진 트랜잭션이 들어가는 블록 + 3 의 블록해쉬와 값 비교
 2. Pot money
     * 결과가 나왔을 때만 유저가 보낸 돈을 팟머니에 쌓음
