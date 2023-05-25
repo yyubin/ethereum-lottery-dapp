@@ -1,10 +1,8 @@
-# 이더리움을 활용한 Lottery Dapp
+# 이더리움을 사용한 lottery dApp
 
 ### Reference
 
 https://www.inflearn.com/course/ethereum-dapp
-
-- - -
 
 # Dapp 서비스 설계
 
